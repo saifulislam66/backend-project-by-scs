@@ -9,8 +9,11 @@
   "author": "saiful",
   "license": "ISC",
   "dependencies": {
+    "config": "^3.3.12",
     "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
+    "export": "^0.1.337",
     "express": "^4.21.1",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.8.1"
